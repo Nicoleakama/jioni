@@ -1,0 +1,49 @@
+body{
+    background-color: aquamarine;
+    color: black;
+    text-align: left;
+    /*padding:60px ;*/
+    padding-left: 70px;
+}
+a{text-decoration: none;
+color: red;
+}
+
+a:hover{color: black;
+background-color: white;
+    border-bottom: red 2px solid;
+    font-size: 20px;
+
+}
+
+
+
+
+
+p{
+    color: gold;
+}
+
+
+
+
+b{background-color: black;
+    color: blue;
+}
+u{color: white;
+}
+
+.one{
+    color: darkblue;
+    border:white 3px solid ;height: 50%; width: 50%;
+    border-radius: 25px;
+    padding-top: 20px;
+
+}
+
+
+
+
+
+
+

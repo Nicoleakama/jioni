@@ -1,0 +1,21 @@
+body{background-color:   #ECE1D4
+
+;
+    color:    #F08308
+
+;
+}
+.four{
+    text-align:-webkit-match-parent;
+    font-size: 25px;
+}
+a{text-decoration: none;
+font-size: 20px}
+a:hover{
+    font-size: 30px;
+    border-bottom: white;
+    color: red;
+}
+
+.six{font-size: 25px;
+}
